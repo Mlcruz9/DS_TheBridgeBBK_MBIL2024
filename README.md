@@ -30,4 +30,5 @@ git clone https://github.com/Mlcruz9/DS_TheBridgeBBK_MBIL2024.git
 
 **Lead Instructor**: *Miguel Stiven La Cruz Pino*
 
-- miguel.cruz@thebridgeschool.es
+- miguel.cruz@thebridgeschool.es 
+ 
